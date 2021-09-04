@@ -80,22 +80,22 @@ int eval(int playerval,int counter,char name[10]) {
 		switch(temp) {
 			case 6:
 			n = counter + 8;
-			printf("neku ladder vachindi broo + 8 ")
+			printf("neku ladder vachindi broo + 8 ");
 			break;
 
 			case 16:
 			n =  counter - 12;
-			printf("neku snake vachindi broo - 12 pedda snake eee idhi")
+			printf("neku snake vachindi broo - 12 pedda snake eee idhi");
 			break;
 			
 			case 17:
 			n =  counter + 6;
-			printf("neku ladder vachindi broo + 6 ")
+			printf("neku ladder vachindi broo + 6 ");
 			break;
 			
 			case 27:
 			n =  counter + 6;
-			printf("neku ladder vachindi broo + 6 ")
+			printf("neku ladder vachindi broo + 6 ");
 			break;
 
 			case 29:
@@ -104,7 +104,7 @@ int eval(int playerval,int counter,char name[10]) {
 
 			case 38:
 			n =  counter + 5;
-			printf("neku ladder vachindi broo + 5 ")
+			printf("neku ladder vachindi broo + 5 ");
 			break;
 
 			case 39:
